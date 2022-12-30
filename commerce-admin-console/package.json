@@ -38,7 +38,7 @@
     "carbon-components-angular": "^2.0.9"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "~0.8.0",
+    "@angular-devkit/build-angular": "~15.0.4",
     "@angular/cli": "^6.1.0",
     "@angular/compiler-cli": "^6.1.0",
     "@angular/language-service": "^5.2.9",
